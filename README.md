@@ -5,7 +5,7 @@ Run this command in D:/Solana/
 
   git clone https://github.com/allartprotocol/unity-solana-wallet.git
   
-  This is All.Art protocal repository.
+  This is All.Art protocol repository.
 
 ## Installation
 
