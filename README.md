@@ -1,4 +1,4 @@
-# Unity-Solan-Demo
+# Unity-Solana-Demo
 ## Before start
 
 Run this command in D:/Solana/
