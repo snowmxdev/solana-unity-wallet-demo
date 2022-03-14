@@ -1,7 +1,9 @@
 # Unity-Solan-Demo
 ## Before start
 
-Run this command git clone https://github.com/allartprotocol/unity-solana-wallet.git in D:/Solana/
+Run this command in D:/Solana/
+
+  git clone https://github.com/allartprotocol/unity-solana-wallet.git
 
 ## Installation
 
