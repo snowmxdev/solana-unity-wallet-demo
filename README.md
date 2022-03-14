@@ -1,38 +1,7 @@
-# unity-solana-demo
-Demonstration of Unity-Solana Wallet in action
+# Unity-Solan-Demo
+## Before start
 
-## Features
-- Create/Backup wallet with mnemonic phrase
-- Account handling
-- Transaction building
-- SOL balance 
-- SPL-token balances
-- SPL-token transfers
-- Basic UI examples 
-- WebSocket subscription
-- Save and load mnemonics from local txt file
-- Save private key in txt file
-
-## Dependencies
-- Newtonsoft.Json
-- Chaos.NaCl.Standard
-- Portable.BouncyCastle
-- Zxing
-
-## External packages
-- Native File Picker
-- Standalone File Browser
-
-## Roadmap
-- Multiple wallet accounts
-- Camera support with QR code scanning for token transfers
-- Improved UI for in-game easy integration
-- Metaplex NFT / NFT-PRO support with GameObjects 
-- Token swaps
-- NFT swaps
-- One-click in-game currency creator
-- Themed UI support
-- Metaplex auctions for in-game store items
+Run this command git clone https://github.com/allartprotocol/unity-solana-wallet.git in D:/Solana/
 
 ## Installation
 
