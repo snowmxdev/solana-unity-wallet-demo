@@ -3,7 +3,7 @@
 
 Run this command in D:/Solana/
 
-  git clone https://github.com/allartprotocol/unity-solana-wallet.git
+  git clone https://github.com/allartprotocol/unity-solana-wallet.git \n
   git clone https://github.com/bmresearch/Solnet.git
   
   This is All.Art and Solnet repository.
